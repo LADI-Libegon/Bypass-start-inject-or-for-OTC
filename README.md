@@ -1,5 +1,5 @@
 # Bypass/start/inject-or for OTC
-3 in 1 compiled programs for bypass/start/inject-ing OTC in CS:GO.
+2 in 1 compiled programs for bypass/start/inject-ing OTC in CS:GO.
 
 # How to launch?
 Just start "start.bat" and wait, .bat file will do everything.
