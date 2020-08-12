@@ -31,6 +31,6 @@
 *.lib   binary
 
 # Executables
-*.exe   binary
+*.exe   binary diff=cpp
 *.out   binary
 *.app   binary
