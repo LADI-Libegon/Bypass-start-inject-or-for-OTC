@@ -2,7 +2,7 @@
 1.exe
 @echo start VAC BYPASS
 timeout /t 13
-2.url
+start steam://rungameid/730
 @echo start CS:GO
 timeout /t 27
-3.exe
+2.exe
