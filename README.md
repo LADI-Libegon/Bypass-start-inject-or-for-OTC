@@ -14,7 +14,7 @@ or just redownload repo
 
 # Special thanks
 https://github.com/0x000cb - for source of OTC                            
-https://github.com/danielkrupinski - for VAC bypass source and injector
+https://github.com/danielkrupinski - for VAC bypass source and injector       
 and me, just for compiling and writing the .bat file                      
 
 Thanks! BB)
