@@ -12,6 +12,7 @@ Start CS:GO and then start 2.exe
 Clone repo and use.
 
 # You have an issue?
+Start all programms/.bat files with admin
 install VISUAL C++ redist 2015-2019 x86-x64                            
 make sure that you using windows 7-10 x64 only                       
 or just redownload repo                     
