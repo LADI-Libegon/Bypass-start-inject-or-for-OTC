@@ -5,8 +5,8 @@
 Just start "start.bat" and wait, .bat file will do everything.
 
 # Manual launch
-Start 1.exe, wait...
-Start CS:GO and then start 2.exe
+Start 1.exe, wait...             
+and then start 2.exe
 
 # How to download?
 Clone repo and use.
