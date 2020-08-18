@@ -1,8 +1,8 @@
 # Bypass/start/inject-or for OTC
-2 in 1 compiled programs for bypass/start/inject-ing OTC in CS:GO.
+2 in 2 compiled programs for bypass/start/inject-ing OTC in CS:GO.
 
 # How to launch?
-Just start "start.bat" and wait, .bat file will do everything.
+Just start "VACBypass.exe" and wait.
 
 # Manual launch
 Start 1.exe, wait...             
