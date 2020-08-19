@@ -4,10 +4,6 @@
 # How to launch?
 Just start "VACBypass.exe" and wait.
 
-# Manual launch
-Start 1.exe, wait...             
-and then start 2.exe
-
 # How to download?
 Clone repo and use.
 
