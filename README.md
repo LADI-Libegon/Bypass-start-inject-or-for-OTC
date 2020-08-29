@@ -4,7 +4,7 @@
 # How to launch?
 Just start "VACBypass.exe" and wait.
 
-# How to download?
+# How to use?
 Clone repo and use.
 
 # You have an issue?
